@@ -1,0 +1,39 @@
+C:\Users\pixel\source\repos\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.exe
+C:\Users\pixel\source\repos\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.deps.json
+C:\Users\pixel\source\repos\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.runtimeconfig.json
+C:\Users\pixel\source\repos\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.runtimeconfig.dev.json
+C:\Users\pixel\source\repos\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.dll
+C:\Users\pixel\source\repos\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.pdb
+C:\Users\pixel\source\repos\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.csprojAssemblyReference.cache
+C:\Users\pixel\source\repos\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.AssemblyInfoInputs.cache
+C:\Users\pixel\source\repos\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.AssemblyInfo.cs
+C:\Users\pixel\source\repos\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.csproj.CoreCompileInputs.cache
+C:\Users\pixel\source\repos\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.dll
+C:\Users\pixel\source\repos\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.pdb
+C:\Users\pixel\source\repos\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.genruntimeconfig.cache
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.exe
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.deps.json
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.runtimeconfig.json
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.runtimeconfig.dev.json
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.dll
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.pdb
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.csprojAssemblyReference.cache
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.AssemblyInfoInputs.cache
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.AssemblyInfo.cs
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.csproj.CoreCompileInputs.cache
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.dll
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.pdb
+D:\Users\pixel\Desktop\DE-IK\V. félév\MestInt\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.genruntimeconfig.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.exe
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.deps.json
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.runtimeconfig.json
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.runtimeconfig.dev.json
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.dll
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\bin\Debug\netcoreapp3.1\FlipGame.pdb
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.csprojAssemblyReference.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.csproj.CoreCompileInputs.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.AssemblyInfoInputs.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.AssemblyInfo.cs
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.dll
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.pdb
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\FlipGame\FlipGame\obj\Debug\netcoreapp3.1\FlipGame.genruntimeconfig.cache
